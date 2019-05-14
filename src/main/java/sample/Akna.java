@@ -17,15 +17,19 @@ public class Akna implements mezo{
     private double NumberOfBombs=3.0;
 
     /**
+     * Calling MathThings.
+     */
+    MathThings mathThings= new MathThings();
+
+
+    /**
      * Places the number of bombs that given by @NumberOfBombs, than counts the bombs in the neighbours.
      */
 
     public void aknák() {
-        for (int i = 0; i < counter[0].length; i++) {
-            for (int j = 0; j < counter.length; j++) {
-                list.add(i * 100 + j);
-            }
-        }
+
+        mathThings.makeList(list, counter[0].length,counter.length);
+
 
 
         for (int i = 0; i < NumberOfBombs; i++) {

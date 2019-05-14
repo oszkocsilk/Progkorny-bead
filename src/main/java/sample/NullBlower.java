@@ -1,6 +1,7 @@
 package sample;
 
 import java.util.ArrayList;
+import java.util.List;
 
 /**
  * Blows those buttons which has 0 value and the neighbours of the clicked button.
@@ -23,7 +24,7 @@ public class NullBlower implements mezo{
      */
     public void Blower(ArrayList<Integer> toClear){
 
-        if(toClear.size()==0)
+        if(isEmptyList(toClear))
         {
             return;
         }
@@ -146,5 +147,19 @@ public class NullBlower implements mezo{
      */
     public void setDisabledCounter(int disabledCounter) {
         this.disabledCounter = disabledCounter;
+    }
+
+    /**
+     * Watches if the list is empty.
+     * @param list what the metod watches if it is empty.
+     * @return if the list is empty.
+     */
+
+    public boolean isEmptyList(List list){
+       if(list.size()==0)
+           return true;
+
+       else
+           return false;
     }
 }

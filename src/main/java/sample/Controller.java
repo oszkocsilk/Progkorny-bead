@@ -69,8 +69,13 @@ public class Controller implements mezo{
      */
     NullBlower nullBlower = new NullBlower();
     /**
+     * Calling MathThings.
+     */
+    MathThings s=new MathThings();
+    /**
      * Watches mouse event.
      */
+
 
 
     EventHandler<MouseEvent> eventHandler = new EventHandler<>() {
@@ -105,17 +110,17 @@ public class Controller implements mezo{
                             win();
                             nullBlower.setDisabledCounter(0);
                         } else {
-                            log.info("You chose a BOMB");
+                            log.info("You choose a BOMB");
                             b.Blowed();
                             b.display("LOSER","YOU LOST!");
                             lose=true;
 
-                            }
                         }
                     }
                 }
             }
-        };
+        }
+    };
 
 
     /**
@@ -151,13 +156,13 @@ public class Controller implements mezo{
 
                     timer++;
                     if(próba==false){
-                if (win==true) {
-                    próba=true;
-                    score = ( akna.getNumberOfBombs() * 1000 )   /   ( timer / 60 );
-                    System.out.println("score értéke:"+getScore());
-                    b.display("WIN", "YOU WIN!\nYour score is: "+score);
+                        if (win==true) {
+                            próba=true;
+                            score= s.score(akna.getNumberOfBombs(),timer);
+                            System.out.println("score értéke:"+getScore());
+                            b.display("WIN", "YOU WIN!\nYour score is: "+score);
 
-                    this.stop();
+                            this.stop();
 
                     }
                  if (lose==true) {
@@ -218,5 +223,6 @@ public class Controller implements mezo{
     public int getDisabled() {
         return disabled;
     }
+
 
 }

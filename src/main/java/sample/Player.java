@@ -18,7 +18,7 @@ public class Player {
     /**
      * The score at the database.
      */
-    @Column(name="Score")
+    @Column(name="MathThings")
     private double Score;
 
     /**
@@ -84,7 +84,7 @@ public class Player {
     public String toString() {
         return "Player{" +
                 "ID=" + ID +
-                ", Score=" + Score +
+                ", MathThings=" + Score +
                 '}';
     }
 

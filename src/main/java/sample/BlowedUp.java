@@ -37,8 +37,9 @@ public class BlowedUp implements mezo{
 
                 if (counter[x][y] == 666) {
 
-                    aknakereso.getMezo()[x][y].setText("X");
-                    aknakereso.getMezo()[x][y].setStyle("-fx-background-color: #ff0000");
+//                    aknakereso.getMezo()[x][y].setText("X");
+//                    aknakereso.getMezo()[x][y].setStyle("-fx-background-color: #ff0000");
+                    explode(aknakereso.getMezo()[x][y]);
                 }
             }
         }
@@ -70,4 +71,21 @@ public class BlowedUp implements mezo{
         window.setScene(scene);
         window.show();
     }
+
+    /**
+     * Colours the buttton, if bomb.
+     * Set "X" if bomb.
+     * @param button is what you modify.
+     */
+    public void explode(Button button){
+
+        if(button.isDisabled()==true){
+
+            button.setText("X");
+            button.setStyle("-fx-background-color: #ff0000");
+
+        }
+
+    }
+
 }
