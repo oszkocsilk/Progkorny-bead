@@ -1,1 +1,0 @@
-typeSearchIndex = [{"p":"sample","l":"Akna"},{"p":"sample","l":"Aknakereso"},{"l":"All Classes","url":"allclasses-index.html"},{"p":"sample","l":"AppLauncher"},{"p":"sample","l":"BlowedUp"},{"p":"sample","l":"Controller"},{"p":"sample","l":"Main"},{"p":"sample","l":"mezo"},{"p":"sample","l":"NullBlower"},{"p":"sample","l":"Player"}]

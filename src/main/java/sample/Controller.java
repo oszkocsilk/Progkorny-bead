@@ -1,5 +1,6 @@
 package sample;
 
+
 import javafx.animation.AnimationTimer;
 import javafx.event.EventHandler;
 import javafx.scene.input.MouseEvent;
@@ -106,6 +107,7 @@ public class Controller implements mezo {
      *Starts the timer and tries to catch mouse event.
      * @param aknakereso calls the created aknakereso.
      */
+    boolean próba=false;
     public Controller(Aknakereso aknakereso) {
         this.aknakereso = aknakereso;
         this.b = new BlowedUp(aknakereso);
@@ -115,23 +117,28 @@ public class Controller implements mezo {
             public void handle(long l) {
 
                     timer++;
-
+                //System.out.println(próba);
+                    //if(próba==false){
                 if (win==true) {
-
+                    //próba=true;
                     score = ( akna.getNumberOfBombs() * 1000 )   /   ( timer / 60 );
-                    data(score);
                     System.out.println("score értéke:"+getScore());
                     b.display("WIN", "YOU WIN!\nYour score is: "+score);
-                    this.stop();
-
-
-
-                }
-                if (lose==true) {
+                    data(score);
 
                     this.stop();
 
-                }
+
+
+                    }
+                 if (lose==true) {
+                      //próba=true;
+
+                        this.stop();
+
+
+                    }
+               // }
             }
         }.start();
 
@@ -153,7 +160,7 @@ public class Controller implements mezo {
             em = emf.createEntityManager();
             createPlayer(Score);
             em.close();
-            emf.close();
+            //emf.close();
         }
 
     /**

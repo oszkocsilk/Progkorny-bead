@@ -13,6 +13,8 @@ public class Player {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Integer ID;
+
+    @Column(name="Score")
     private double Score;
 
     /**
