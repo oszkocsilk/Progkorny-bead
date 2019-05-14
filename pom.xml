@@ -14,12 +14,18 @@
         <!--<dependency.locations.enabled>false</dependency.locations.enabled>-->
         <exec.mainClass>sample.AppLauncher</exec.mainClass>
     </properties>
+    <description>Minesweeper game-Aknakereso játék</description>
     <developers>
         <developer>
             <name>Oszkocsil Krisztián</name>
             <email>oszkocsilk@gmail.com</email>
         </developer>
     </developers>
+    <scm>
+        <url>https://github.com/oszkocsilk/Progkorny-bead</url>
+        <connection>scm:git://github.com/oszkocsilk/Progkorny-bead</connection>
+        <developerConnection>scm:git:git@github.com/oszkocsilk/Progkorny-bead</developerConnection>
+    </scm>
     <dependencies>
         <dependency>
             <groupId>org.slf4j</groupId>

@@ -5,62 +5,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/messages.log" beforeDir="false" afterPath="$PROJECT_DIR$/messages.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sample/Akna.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sample/Akna.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sample/Aknakereso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sample/Aknakereso.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sample/BlowedUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sample/BlowedUp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sample/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sample/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sample/NullBlower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sample/NullBlower.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sample/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sample/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sample/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sample/sample.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/aknakereso-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/aknakereso-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sample/Akna.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sample/Akna.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sample/Aknakereso.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sample/Aknakereso.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sample/BlowedUp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sample/BlowedUp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sample/Controller$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sample/Controller$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sample/Controller$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sample/Controller$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sample/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sample/Controller.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sample/NullBlower.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sample/NullBlower.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sample/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sample/Player.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/aknakereso-1.0-SNAPSHOT-clover.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/clover/aknakereso-1.0-SNAPSHOT-clover.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/classes/instrumentation.ser" beforeDir="false" afterPath="$PROJECT_DIR$/target/clover/classes/instrumentation.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/classes/sample/Akna.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/clover/classes/sample/Akna.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/classes/sample/Aknakereso.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/clover/classes/sample/Aknakereso.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/classes/sample/AppLauncher.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/clover/classes/sample/AppLauncher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/classes/sample/BlowedUp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/clover/classes/sample/BlowedUp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/classes/sample/Controller$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/clover/classes/sample/Controller$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/classes/sample/Controller$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/clover/classes/sample/Controller$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/classes/sample/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/clover/classes/sample/Controller.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/classes/sample/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/clover/classes/sample/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/classes/sample/NullBlower.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/clover/classes/sample/NullBlower.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/classes/sample/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/clover/classes/sample/Player.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/clover.db" beforeDir="false" afterPath="$PROJECT_DIR$/target/clover/clover.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/jacoco.exec" beforeDir="false" afterPath="$PROJECT_DIR$/target/clover/jacoco.exec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/clover/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/clover/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/clover/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/clover/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/clover/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/src-test/tests/AknaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/clover/src-test/tests/AknaTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/src/sample/Akna.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/clover/src/sample/Akna.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/src/sample/Aknakereso.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/clover/src/sample/Aknakereso.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/src/sample/AppLauncher.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/clover/src/sample/AppLauncher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/src/sample/BlowedUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/clover/src/sample/BlowedUp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/src/sample/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/clover/src/sample/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/src/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/clover/src/sample/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/src/sample/NullBlower.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/clover/src/sample/NullBlower.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/src/sample/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/clover/src/sample/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/src/sample/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/clover/src/sample/sample.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/surefire-reports/TEST-tests.AknaTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/clover/surefire-reports/TEST-tests.AknaTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/surefire-reports/tests.AknaTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/clover/surefire-reports/tests.AknaTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/test-classes/tests/AknaTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/clover/test-classes/tests/AknaTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/jacoco.exec" beforeDir="false" afterPath="$PROJECT_DIR$/target/jacoco.exec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-tests.AknaTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-tests.AknaTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/tests.AknaTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/tests.AknaTest.txt" afterDir="false" />
     </list>
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -133,8 +77,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="298" column="61" selection-start-line="298" selection-start-column="61" selection-end-line="298" selection-end-column="61" />
+            <state relative-caret-position="527">
+              <caret line="31" column="42" selection-start-line="31" selection-start-column="42" selection-end-line="31" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -317,10 +261,6 @@
               <item name="Progkörny-aknakereso" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Progkörny-aknakereso" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -337,7 +277,7 @@
     <property name="OverrideImplement.combined" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557856590263" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557859350268" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="dynamic.classpath" value="false" />
@@ -376,7 +316,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JAR Application.aknakereso-1.0-SNAPSHOT-jar-with-dependencies.jar">
+  <component name="RunManager" selected="JAR Application.aknakereso-1.0-SNAPSHOT.jar">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -564,7 +504,7 @@
       <workItem from="1557825938631" duration="7377000" />
       <workItem from="1557836013978" duration="3618000" />
       <workItem from="1557850582469" duration="506000" />
-      <workItem from="1557852724777" duration="3729000" />
+      <workItem from="1557852724777" duration="5393000" />
     </task>
     <task id="LOCAL-00001" summary="működő">
       <created>1557830716823</created>
@@ -577,13 +517,14 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="154951000" />
+    <option name="totallyTimeSpent" value="156615000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Persistence" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.6703755" visible="true" weight="0.11567164" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.6703755" visible="true" weight="0.18017058" />
       <window_info id="Structure" order="2" weight="0.25" />
       <window_info id="Favorites" order="3" />
       <window_info id="Designer" order="4" />
@@ -607,7 +548,7 @@
       <window_info anchor="bottom" id="Messages" order="14" weight="0.25541127" />
       <window_info anchor="bottom" id="Docker" order="15" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="16" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="17" visible="true" weight="0.25324675" />
+      <window_info anchor="bottom" id="Terminal" order="17" weight="0.2478355" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -826,8 +767,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="298" column="61" selection-start-line="298" selection-start-column="61" selection-end-line="298" selection-end-column="61" />
+        <state relative-caret-position="527">
+          <caret line="31" column="42" selection-start-line="31" selection-start-column="42" selection-end-line="31" selection-end-column="42" />
         </state>
       </provider>
     </entry>
