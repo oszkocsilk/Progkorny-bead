@@ -11,33 +11,66 @@ import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;
 import java.util.ArrayList;
 
+
 /**
  * This watches the mouse click, runs the timer, count disabled buttons, watches if you win or lost.
  */
 @Slf4j
-public class Controller implements mezo {
+public class Controller implements mezo{
 
     /**
-     * {@code}timer counts the time.
-     * {@code}score counts the score.
-     * {@code}lose watches if you lose.
-     * {@code}win watches if you win.
-     * {@code}disables counts the disabled buttons.
+     * Timer counts the time.
      */
     public double timer=0.0;
+    /**
+     *  The score of the player.
+     */
     private Double score=0.0;
+    /**
+     * Watches if you lose.
+     */
     private boolean lose=false;
+    /**
+     * Disabled button counter.
+     */
     int disabled=0;
+    /**
+     * Watches if you win.
+     */
     private boolean win;
+    /**
+     * Creating variable for the Actiontimer.
+     */
+    boolean próba=false;
 
-
+    /**
+     * Creating new bombs.
+     */
     private Akna akna=new Akna();
+    /**
+     * Creating aknakereso.
+     */
     private Aknakereso aknakereso;
+    /**
+     * Creating Blow up call.
+     */
     private BlowedUp b;
+    /**
+     * Entity Manager for database connection.
+     */
     private static EntityManager em;
 
+    /**
+     * List of bombs.
+     */
     ArrayList<Integer> toClear = new ArrayList<Integer>();
+    /**
+     * Call of Nullblower.
+     */
     NullBlower nullBlower = new NullBlower();
+    /**
+     * Watches mouse event.
+     */
 
 
     EventHandler<MouseEvent> eventHandler = new EventHandler<>() {
@@ -107,7 +140,7 @@ public class Controller implements mezo {
      *Starts the timer and tries to catch mouse event.
      * @param aknakereso calls the created aknakereso.
      */
-    boolean próba=false;
+
     public Controller(Aknakereso aknakereso) {
         this.aknakereso = aknakereso;
         this.b = new BlowedUp(aknakereso);
@@ -117,28 +150,23 @@ public class Controller implements mezo {
             public void handle(long l) {
 
                     timer++;
-                //System.out.println(próba);
-                    //if(próba==false){
+                    if(próba==false){
                 if (win==true) {
-                    //próba=true;
+                    próba=true;
                     score = ( akna.getNumberOfBombs() * 1000 )   /   ( timer / 60 );
                     System.out.println("score értéke:"+getScore());
                     b.display("WIN", "YOU WIN!\nYour score is: "+score);
-                    data(score);
 
                     this.stop();
 
-
-
                     }
                  if (lose==true) {
-                      //próba=true;
+                      próba=true;
 
                         this.stop();
 
-
                     }
-               // }
+                }
             }
         }.start();
 
@@ -160,7 +188,7 @@ public class Controller implements mezo {
             em = emf.createEntityManager();
             createPlayer(Score);
             em.close();
-            //emf.close();
+            emf.close();
         }
 
     /**
@@ -190,4 +218,5 @@ public class Controller implements mezo {
     public int getDisabled() {
         return disabled;
     }
+
 }

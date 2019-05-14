@@ -7,8 +7,13 @@ import java.util.ArrayList;
  */
 
 public class Akna implements mezo{
-
+    /**
+     * Helps to find location of bombs.
+     */
     private ArrayList<Integer>list = new ArrayList<Integer>();
+    /**
+     * Gives the number of Bombs.
+     */
     private double NumberOfBombs=3.0;
 
     /**

@@ -1,122 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_46.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="működő">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aknakereso.iml" beforeDir="false" afterPath="$PROJECT_DIR$/aknakereso.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/messages.log" beforeDir="false" afterPath="$PROJECT_DIR$/messages.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sample/Akna.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sample/Akna.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sample/Aknakereso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sample/Aknakereso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sample/BlowedUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sample/BlowedUp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/sample/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sample/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sample/NullBlower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sample/NullBlower.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/sample/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sample/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/aknakereso-1.0-SNAPSHOT-shaded.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sample/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sample/sample.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/aknakereso-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/aknakereso-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/checkstyle-cachefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/checkstyle-checker.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/checkstyle-result.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/groverconfig10233414519839287411/instrumentation.ser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/groverconfig10279274506087148315/instrumentation.ser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/groverconfig12058823200288324968/instrumentation.ser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/groverconfig13397825270451175780/instrumentation.ser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/groverconfig14603307810068436193/instrumentation.ser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/groverconfig1463240402868655625/instrumentation.ser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/groverconfig15322846813951408449/instrumentation.ser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/groverconfig15480031685691761881/instrumentation.ser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/groverconfig16469524544741944126/instrumentation.ser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/groverconfig16896552447775436866/instrumentation.ser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/groverconfig17065690666313533303/instrumentation.ser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/groverconfig17585196156051472663/instrumentation.ser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/groverconfig17848893974523121567/instrumentation.ser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/groverconfig238780590319091852/instrumentation.ser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/groverconfig275346697857924185/instrumentation.ser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/groverconfig2790312856917860270/instrumentation.ser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/groverconfig3030900302258639788/instrumentation.ser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/groverconfig3724867438144867737/instrumentation.ser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/groverconfig4036604220033140603/instrumentation.ser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/groverconfig5628972997522045628/instrumentation.ser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/groverconfig6571064884224382057/instrumentation.ser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/groverconfig6960091988602844516/instrumentation.ser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/groverconfig9027032149080847477/instrumentation.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sample/Akna.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sample/Akna.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sample/Aknakereso.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sample/Aknakereso.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sample/BlowedUp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sample/BlowedUp.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/sample/Controller$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sample/Controller$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/sample/Controller$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sample/Controller$2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/sample/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sample/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sample/NullBlower.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sample/NullBlower.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/sample/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sample/Player.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/clover/aknakereso-1.0-SNAPSHOT-clover.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/clover/aknakereso-1.0-SNAPSHOT-clover.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/aknakereso-1.0-SNAPSHOT-shaded.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/classes/sample/Akna$__CLR4_3_1l5l5jvmsb1a5$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/classes/sample/Akna$__CLR4_3_1l5l5jvmsb1a5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/clover/classes/instrumentation.ser" beforeDir="false" afterPath="$PROJECT_DIR$/target/clover/classes/instrumentation.ser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/clover/classes/sample/Akna.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/clover/classes/sample/Akna.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/classes/sample/Aknakereso$__CLR4_3_11n1njvmqod2h$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/classes/sample/Aknakereso$__CLR4_3_11n1njvmqod2h.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/clover/classes/sample/Aknakereso.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/clover/classes/sample/Aknakereso.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/classes/sample/AppLauncher$__CLR4_3_12424jvmqod2o$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/classes/sample/AppLauncher$__CLR4_3_12424jvmqod2o.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/clover/classes/sample/AppLauncher.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/clover/classes/sample/AppLauncher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/classes/sample/BlowedUp$__CLR4_3_12626jvmqod52$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/classes/sample/BlowedUp$__CLR4_3_12626jvmqod52.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/clover/classes/sample/BlowedUp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/clover/classes/sample/BlowedUp.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/clover/classes/sample/Controller$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/clover/classes/sample/Controller$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/clover/classes/sample/Controller$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/clover/classes/sample/Controller$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/classes/sample/Controller$__CLR4_3_1pcpcjvmtd92l$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/classes/sample/Controller$__CLR4_3_1pcpcjvmtd92l.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/clover/classes/sample/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/clover/classes/sample/Controller.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/classes/sample/Main$__CLR4_3_15i5ijvmqod8g$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/classes/sample/Main$__CLR4_3_15i5ijvmqod8g.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/clover/classes/sample/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/clover/classes/sample/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/classes/sample/NullBlower$__CLR4_3_15q5qjvmqod9t$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/classes/sample/NullBlower$__CLR4_3_15q5qjvmqod9t.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/clover/classes/sample/NullBlower.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/clover/classes/sample/NullBlower.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/classes/sample/Player$__CLR4_3_19292jvmqodbc$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/classes/sample/Player$__CLR4_3_19292jvmqodbc.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/clover/classes/sample/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/clover/classes/sample/Player.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/clover/clover.db" beforeDir="false" afterPath="$PROJECT_DIR$/target/clover/clover.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/clover.db27agr5_jvmru8t1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/clover.db2y4pls_jvmqvyx6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/clover.db2y4pls_jvmrklcz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/clover.db2y4pls_jvms2z9b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/clover.db2y4pls_jvms2z9b.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/clover.db2y4pls_jvms48by" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/clover.db2y4pls_jvms48by.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/clover.db73an66_jvmqvywy" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/clover.db73an66_jvmrklco" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/clover.db73an66_jvms2z90" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/clover.db73an66_jvms48br" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/clover.db73an66_jvms48br.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/clover.dbfuzvmv_jvmqxfom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/clover.dbfuzvmv_jvmqxfom.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/clover.dbfuzvmv_jvmrmu8d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/clover.dbfuzvmv_jvmsb8t0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/clover.dbfuzvmv_jvmt1tkl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/clover.dbiewchy_jvmqombu" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/clover.dbiewchy_jvmrp8yo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/clover.dbl93kd1_jvmr1x6w" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/clover.dbl93kd1_jvmr4ro1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/clover.dbl93kd1_jvmr4ro1.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/clover.dbl93kd1_jvmr6vv5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/clover.dbl93kd1_jvmret0r" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/clover.dbl93kd1_jvmrsroc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/clover.dbl93kd1_jvmtdi7m" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/clover.dblain6v_jvmr1x6o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/clover.dblain6v_jvmr4rnq" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/clover.dblain6v_jvmr4rnq.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/clover.dblain6v_jvmr6vux" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/clover.dblain6v_jvmret0k" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/clover.dblain6v_jvmrsro4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/clover.dblain6v_jvmtdi7e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/clover.dbn0x775_jvmqxfof" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/clover.dbn0x775_jvmqxfof.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/clover.dbn0x775_jvmrmu85" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/clover.dbn0x775_jvmsb8sr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/clover.dbn0x775_jvmt1tkc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/clover.dbubo8ue_jvmqomc3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/clover.dbubo8ue_jvmrp8yw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/clover.dbxyie9x_jvmru8rg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/clover/jacoco.exec" beforeDir="false" afterPath="$PROJECT_DIR$/target/clover/jacoco.exec" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/clover/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/clover/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/clover/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/clover/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/clover/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/clover/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/clover/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/clover/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/original-aknakereso-1.0-SNAPSHOT-clover.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/clover/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/clover/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/clover/src-test/tests/AknaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/clover/src-test/tests/AknaTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/clover/src/sample/Akna.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/clover/src/sample/Akna.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/clover/src/sample/Aknakereso.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/clover/src/sample/Aknakereso.java" afterDir="false" />
@@ -126,443 +49,16 @@
       <change beforePath="$PROJECT_DIR$/target/clover/src/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/clover/src/sample/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/clover/src/sample/NullBlower.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/clover/src/sample/NullBlower.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/clover/src/sample/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/clover/src/sample/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/surefire-reports/2019-05-13T22-13-36_722-jvmRun1.dump" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/surefire-reports/2019-05-13T22-22-40_744-jvmRun1.dump" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/clover/src/sample/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/clover/src/sample/sample.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/clover/surefire-reports/TEST-tests.AknaTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/clover/surefire-reports/TEST-tests.AknaTest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/clover/surefire-reports/tests.AknaTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/clover/surefire-reports/tests.AknaTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/test-classes/tests/AknaTest$__CLR4_3_1msmsjvmsb1e9$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/clover/test-classes/tests/AknaTest$__CLR4_3_1msmsjvmsb1e9.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/clover/test-classes/tests/AknaTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/clover/test-classes/tests/AknaTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/jacoco.exec" beforeDir="false" afterPath="$PROJECT_DIR$/target/jacoco.exec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/javadoc-bundle-options/element-list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/javadoc-bundle-options/javadoc-options-javadoc-resources.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/original-aknakereso-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/allclasses-index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/allclasses.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/allpackages-index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/constant-values.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/deprecated-list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/element-list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/help-doc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/index-all.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/jquery/external/jquery/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/jquery/images/ui-bg_flat_0_aaaaaa_40x100.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/jquery/images/ui-bg_flat_75_ffffff_40x100.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/jquery/images/ui-bg_glass_55_fbf9ee_1x400.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/jquery/images/ui-bg_glass_65_ffffff_1x400.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/jquery/images/ui-bg_glass_75_dadada_1x400.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/jquery/images/ui-bg_glass_75_e6e6e6_1x400.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/jquery/images/ui-bg_glass_95_fef1ec_1x400.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/jquery/images/ui-bg_highlight-soft_75_cccccc_1x100.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/jquery/images/ui-icons_222222_256x240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/jquery/images/ui-icons_2e83ff_256x240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/jquery/images/ui-icons_454545_256x240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/jquery/images/ui-icons_888888_256x240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/jquery/images/ui-icons_cd0a0a_256x240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/jquery/jquery-3.3.1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/jquery/jquery-migrate-3.0.1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/jquery/jquery-ui.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/jquery/jquery-ui.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/jquery/jquery-ui.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/jquery/jquery-ui.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/jquery/jquery-ui.structure.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/jquery/jquery-ui.structure.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/jquery/jszip-utils/dist/jszip-utils-ie.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/jquery/jszip-utils/dist/jszip-utils-ie.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/jquery/jszip-utils/dist/jszip-utils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/jquery/jszip-utils/dist/jszip-utils.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/jquery/jszip/dist/jszip.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/jquery/jszip/dist/jszip.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/member-search-index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/member-search-index.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/overview-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/package-search-index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/package-search-index.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/resources/glass.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/resources/x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/sample/Akna.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/sample/Aknakereso.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/sample/AppLauncher.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/sample/BlowedUp.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/sample/Controller.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/sample/Main.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/sample/NullBlower.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/sample/Player.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/sample/class-use/Akna.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/sample/class-use/Aknakereso.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/sample/class-use/AppLauncher.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/sample/class-use/BlowedUp.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/sample/class-use/Controller.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/sample/class-use/Main.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/sample/class-use/NullBlower.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/sample/class-use/Player.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/sample/class-use/mezo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/sample/mezo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/sample/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/sample/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/sample/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/search.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/stylesheet.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/type-search-index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/type-search-index.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/checkstyle.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/checkstyle.rss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/agg-pkgs.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/arrow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/atlassian-icons.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/atlassian-icons.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/atlassian-icons.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/atlassian-icons.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/aui-experimental.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/aui-icon-close.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/aui-icon-tools.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/aui-ie9.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/aui-toolbar-24px.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/aui.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/bg-000-trans20.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/bg-000-trans50.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/bg-grippy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/core/icon-dropdown-active-d.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/core/icon-dropdown-active.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/core/icon-dropdown-d.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/core/icon-dropdown.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/core/icon-maximize-d.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/core/icon-maximize.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/core/icon-minimize-d.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/core/icon-minimize.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/core/icon-move-d.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/core/icon-move.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/core/icon-search.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/fav_off_16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/fav_on_16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/fonts/atlassian-icons.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/fonts/atlassian-icons.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/fonts/atlassian-icons.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/fonts/atlassian-icons.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/forms/icon-date.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/forms/icon-help.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/forms/icon-range.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/forms/icon-required.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/forms/icon-users.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/forms/icons_form.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/icons/aui-icon-close.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/icons/aui-icon-tools.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/icons/aui-message-icon-sprite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/icons/core/icon-dropdown-active-d.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/icons/core/icon-dropdown-active.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/icons/core/icon-dropdown-d.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/icons/core/icon-dropdown.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/icons/core/icon-maximize-d.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/icons/core/icon-maximize.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/icons/core/icon-minimize-d.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/icons/core/icon-minimize.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/icons/core/icon-move-d.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/icons/core/icon-move.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/icons/core/icon-search.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/icons/forms/icon-date.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/icons/forms/icon-help.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/icons/forms/icon-range.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/icons/forms/icon-required.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/icons/forms/icon-users.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/icons/messages/icon-close-inverted.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/icons/messages/icon-close.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/icons/messages/icon-error-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/icons/messages/icon-error.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/icons/messages/icon-generic.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/icons/messages/icon-hint.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/icons/messages/icon-info.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/icons/messages/icon-success.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/icons/messages/icon-warning.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/images/arrow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/images/bg-000-trans20.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/images/bg-000-trans50.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/images/fav_off_16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/images/fav_on_16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/images/forms/icons_form.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/images/icons/aui-message-icon-sprite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/images/icons/messages/icon-close-inverted.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/images/icons/messages/icon-close.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/images/icons/messages/icon-error-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/images/icons/messages/icon-error.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/images/icons/messages/icon-generic.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/images/icons/messages/icon-hint.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/images/icons/messages/icon-info.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/images/icons/messages/icon-success.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/images/icons/messages/icon-warning.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/images/wait.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/messages/icon-close-inverted.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/messages/icon-close.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/select2-spinner.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/select2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/select2x2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/toolbar/aui-toolbar-24px.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/css/wait.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/js/aui-datepicker.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/js/aui-experimental.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/js/aui-soy.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/aui/js/aui.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/cloud.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/clover-descriptions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/clover-tree.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/clover.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/clover.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/dashboard.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/default-pkg/ControllerTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/default-pkg/ControllerTest.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/default-pkg/test-pkg-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/img/ajax-loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/img/back.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/img/classComplexityChart.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/img/classDistrubutionChart.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/img/clover.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/img/clover_logo_large.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/img/collapse.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/img/expand.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/img/failure_gutter.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/img/logo.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/img/spacer.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/img/srcFileCovDistChart0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/img/srcFileCovDistChart1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/img/srcFileCovDistChart10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/img/srcFileCovDistChart2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/img/srcFileCovDistChart3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/img/srcFileCovDistChart4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/img/srcFileCovDistChart5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/img/srcFileCovDistChart6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/img/srcFileCovDistChart7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/img/srcFileCovDistChart8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/img/srcFileCovDistChart9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/img/treemap.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/jit.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/jquery-1.8.3.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/package-nodes-tree.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/pkg-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/project.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/quick-wins.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/sample/Akna.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/sample/Akna.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/sample/Aknakereso.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/sample/Aknakereso.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/sample/AppLauncher.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/sample/AppLauncher.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/sample/BlowedUp.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/sample/BlowedUp.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/sample/Controller.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/sample/Controller.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/sample/Main.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/sample/Main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/sample/NullBlower.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/sample/NullBlower.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/sample/Player.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/sample/Player.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/sample/mezo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/sample/mezo.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/sample/package-info.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/sample/package-info.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/sample/pkg-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/sample/quick-wins.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/sample/test-pkg-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/sample/top-risks.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/test-pkg-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/tests/AknaTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/tests/AknaTest.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/tests/package-info.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/tests/package-info.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/tests/test-AknaTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/tests/test-pkg-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/tests/testsrc-pkg-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/testsrc-agg-pkgs.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/testsrc-pkg-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/top-risks.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/tree.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/treemap-dash-json.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/treemap-json.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/clover/treemap.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/css/maven-base.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/css/maven-theme.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/css/print.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/css/site.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/dependencies.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/dependency-info.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/close.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/collapsed.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/expanded.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/external.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/icon_error_sml.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/icon_info_sml.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/icon_success_sml.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/icon_warning_sml.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/logos/build-by-maven-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/logos/build-by-maven-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/logos/maven-feather.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/newwindow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/rss.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco-aggregate/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco-aggregate/jacoco-resources/branchfc.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco-aggregate/jacoco-resources/branchnc.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco-aggregate/jacoco-resources/branchpc.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco-aggregate/jacoco-resources/bundle.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco-aggregate/jacoco-resources/class.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco-aggregate/jacoco-resources/down.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco-aggregate/jacoco-resources/greenbar.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco-aggregate/jacoco-resources/group.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco-aggregate/jacoco-resources/method.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco-aggregate/jacoco-resources/package.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco-aggregate/jacoco-resources/prettify.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco-aggregate/jacoco-resources/prettify.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco-aggregate/jacoco-resources/redbar.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco-aggregate/jacoco-resources/report.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco-aggregate/jacoco-resources/report.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco-aggregate/jacoco-resources/session.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco-aggregate/jacoco-resources/sort.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco-aggregate/jacoco-resources/sort.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco-aggregate/jacoco-resources/source.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco-aggregate/jacoco-resources/up.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco-aggregate/jacoco-sessions.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco-aggregate/jacoco.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco-aggregate/jacoco.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/jacoco-resources/branchfc.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/jacoco-resources/branchnc.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/jacoco-resources/branchpc.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/jacoco-resources/bundle.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/jacoco-resources/class.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/jacoco-resources/down.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/jacoco-resources/greenbar.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/jacoco-resources/group.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/jacoco-resources/method.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/jacoco-resources/package.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/jacoco-resources/prettify.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/jacoco-resources/prettify.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/jacoco-resources/redbar.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/jacoco-resources/report.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/jacoco-resources/report.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/jacoco-resources/session.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/jacoco-resources/sort.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/jacoco-resources/sort.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/jacoco-resources/source.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/jacoco-resources/up.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/jacoco-sessions.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/jacoco.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/jacoco.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/sample/Akna.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/sample/Akna.java.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/sample/Aknakereso.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/sample/Aknakereso.java.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/sample/AppLauncher.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/sample/AppLauncher.java.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/sample/BlowedUp.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/sample/BlowedUp.java.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/sample/Controller$1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/sample/Controller$2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/sample/Controller.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/sample/Controller.java.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/sample/Main.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/sample/Main.java.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/sample/NullBlower.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/sample/NullBlower.java.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/sample/Player.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/sample/Player.java.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/sample/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/sample/index.source.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/sample/mezo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/jacoco/sample/mezo.java.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/plugin-management.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/plugins.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/project-info.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/project-reports.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/surefire-report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/team.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/allclasses-index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/allclasses.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/allpackages-index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/constant-values.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/deprecated-list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/element-list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/help-doc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/index-all.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/jquery/external/jquery/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/jquery/images/ui-bg_flat_0_aaaaaa_40x100.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/jquery/images/ui-bg_flat_75_ffffff_40x100.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/jquery/images/ui-bg_glass_55_fbf9ee_1x400.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/jquery/images/ui-bg_glass_65_ffffff_1x400.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/jquery/images/ui-bg_glass_75_dadada_1x400.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/jquery/images/ui-bg_glass_75_e6e6e6_1x400.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/jquery/images/ui-bg_glass_95_fef1ec_1x400.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/jquery/images/ui-bg_highlight-soft_75_cccccc_1x100.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/jquery/images/ui-icons_222222_256x240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/jquery/images/ui-icons_2e83ff_256x240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/jquery/images/ui-icons_454545_256x240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/jquery/images/ui-icons_888888_256x240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/jquery/images/ui-icons_cd0a0a_256x240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/jquery/jquery-3.3.1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/jquery/jquery-migrate-3.0.1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/jquery/jquery-ui.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/jquery/jquery-ui.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/jquery/jquery-ui.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/jquery/jquery-ui.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/jquery/jquery-ui.structure.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/jquery/jquery-ui.structure.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/jquery/jszip-utils/dist/jszip-utils-ie.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/jquery/jszip-utils/dist/jszip-utils-ie.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/jquery/jszip-utils/dist/jszip-utils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/jquery/jszip-utils/dist/jszip-utils.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/jquery/jszip/dist/jszip.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/jquery/jszip/dist/jszip.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/member-search-index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/member-search-index.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/overview-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/package-search-index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/package-search-index.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/resources/glass.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/resources/x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/search.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/stylesheet.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/tests/AknaTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/tests/class-use/AknaTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/tests/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/tests/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/tests/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/type-search-index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/type-search-index.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/xref-test/allclasses-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/xref-test/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/xref-test/overview-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/xref-test/overview-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/xref-test/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/xref-test/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/xref-test/stylesheet.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/xref-test/tests/AknaTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/xref-test/tests/ControllerTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/xref-test/tests/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/xref-test/tests/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/xref/allclasses-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/xref/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/xref/overview-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/xref/overview-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/xref/sample/Akna.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/xref/sample/Aknakereso.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/xref/sample/AppLauncher.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/xref/sample/BlowedUp.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/xref/sample/Controller.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/xref/sample/Main.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/xref/sample/NullBlower.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/xref/sample/Player.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/xref/sample/mezo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/xref/sample/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/xref/sample/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/xref/stylesheet.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2019-05-13T21-52-56_807-jvmRun1.dump" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-tests.AknaTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-tests.AknaTest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/tests.AknaTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/tests.AknaTest.txt" afterDir="false" />
     </list>
@@ -623,97 +119,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/sample/Aknakereso.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/sample/Controller.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="842">
-              <caret line="114" column="22" selection-start-line="114" selection-start-column="22" selection-end-line="114" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#4609#4610#0" expanded="true" />
-                <element signature="e#5728#5729#0" expanded="true" />
-                <element signature="e#5756#5757#0" expanded="true" />
-                <element signature="e#5869#5870#0" expanded="true" />
-                <element signature="e#5900#5901#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/sample/Player.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
-              <folding>
-                <element signature="e#685#686#0" expanded="true" />
-                <element signature="e#714#715#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/sample/Akna.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/tests/AknaTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#259#260#0" expanded="true" />
-                <element signature="e#314#315#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/sample/sample.fxml">
-          <provider editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-          <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/sample/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="24" column="15" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
+            <state relative-caret-position="530">
+              <caret line="66" column="7" selection-start-line="66" selection-start-column="7" selection-end-line="66" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/sample/AppLauncher.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -721,8 +133,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="335">
-              <caret line="129" column="49" lean-forward="true" selection-start-line="129" selection-start-column="49" selection-end-line="129" selection-end-column="49" />
+            <state relative-caret-position="322">
+              <caret line="298" column="61" selection-start-line="298" selection-start-column="61" selection-end-line="298" selection-end-column="61" />
             </state>
           </provider>
         </entry>
@@ -752,6 +164,7 @@
       <find>mysql</find>
       <find>main</find>
       <find>sql</find>
+      <find>checkstyle</find>
     </findStrings>
   </component>
   <component name="FindManager">
@@ -777,16 +190,13 @@
         <option value="$PROJECT_DIR$/src/sample/Player.java" />
         <option value="$PROJECT_DIR$/src/sample/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/resources/META-INF/persistence.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/sample/sample.fxml" />
         <option value="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" />
         <option value="$USER_HOME$/Desktop/Controller.java" />
         <option value="$USER_HOME$/Desktop/NullBlower.java" />
         <option value="$PROJECT_DIR$/src/main/java/sample/winner.java" />
         <option value="$PROJECT_DIR$/src/main/java/sample/AppLauncher.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sample/BlowedUp.java" />
         <option value="$PROJECT_DIR$/src/main/java/sample/package-info.java" />
         <option value="$PROJECT_DIR$/src/main/java/sample/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sample/NullBlower.java" />
         <option value="$PROJECT_DIR$/src/main/java/sample/Timer.java" />
         <option value="$PROJECT_DIR$/src/main/java/sample/mezo.java" />
         <option value="$PROJECT_DIR$/src/test/java/sample/NullBlowerTest.java" />
@@ -798,10 +208,13 @@
         <option value="$PROJECT_DIR$/src/test/java/tests/ControllerTest.java" />
         <option value="$PROJECT_DIR$/checkstyle.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/log4j2.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/sample/Aknakereso.java" />
         <option value="$PROJECT_DIR$/src/test/java/tests/AknaTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sample/sample.fxml" />
         <option value="$PROJECT_DIR$/src/main/java/sample/Akna.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sample/Aknakereso.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sample/BlowedUp.java" />
         <option value="$PROJECT_DIR$/src/main/java/sample/Player.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sample/NullBlower.java" />
         <option value="$PROJECT_DIR$/src/main/java/sample/Controller.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
       </list>
@@ -828,66 +241,85 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="aknakereso" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aknakereso" type="462c0819:PsiDirectoryNode" />
+              <item name="Progkörny-aknakereso" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Progkörny-aknakereso" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="aknakereso" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aknakereso" type="462c0819:PsiDirectoryNode" />
+              <item name="Progkörny-aknakereso" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Progkörny-aknakereso" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="aknakereso" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aknakereso" type="462c0819:PsiDirectoryNode" />
+              <item name="Progkörny-aknakereso" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Progkörny-aknakereso" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="aknakereso" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aknakereso" type="462c0819:PsiDirectoryNode" />
+              <item name="Progkörny-aknakereso" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Progkörny-aknakereso" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="aknakereso" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aknakereso" type="462c0819:PsiDirectoryNode" />
+              <item name="Progkörny-aknakereso" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Progkörny-aknakereso" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="sample" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="aknakereso" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aknakereso" type="462c0819:PsiDirectoryNode" />
+              <item name="Progkörny-aknakereso" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Progkörny-aknakereso" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Progkörny-aknakereso" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Progkörny-aknakereso" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Progkörny-aknakereso" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Progkörny-aknakereso" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="aknakereso" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aknakereso" type="462c0819:PsiDirectoryNode" />
+              <item name="Progkörny-aknakereso" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Progkörny-aknakereso" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="aknakereso" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aknakereso" type="462c0819:PsiDirectoryNode" />
+              <item name="Progkörny-aknakereso" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Progkörny-aknakereso" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="aknakereso" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aknakereso" type="462c0819:PsiDirectoryNode" />
+              <item name="Progkörny-aknakereso" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Progkörny-aknakereso" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Progkörny-aknakereso" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -905,7 +337,7 @@
     <property name="OverrideImplement.combined" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557830110598" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557856590263" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="dynamic.classpath" value="false" />
@@ -1062,8 +494,8 @@
       <item itemvalue="JAR Application.aknakereso-1.0-SNAPSHOT.jar" />
       <item itemvalue="JAR Application.aknakereso-1.0-SNAPSHOT-shaded.jar" />
       <item itemvalue="JAR Application.original-aknakereso-1.0-SNAPSHOT.jar" />
-      <item itemvalue="Maven.clean site" />
       <item itemvalue="JAR Application.aknakereso-1.0-SNAPSHOT-jar-with-dependencies.jar" />
+      <item itemvalue="Maven.clean site" />
     </list>
     <recent_temporary>
       <list>
@@ -1129,19 +561,29 @@
       <workItem from="1557755956101" duration="1031000" />
       <workItem from="1557772848393" duration="832000" />
       <workItem from="1557773737561" duration="9034000" />
-      <workItem from="1557825938631" duration="4537000" />
+      <workItem from="1557825938631" duration="7377000" />
+      <workItem from="1557836013978" duration="3618000" />
+      <workItem from="1557850582469" duration="506000" />
+      <workItem from="1557852724777" duration="3729000" />
     </task>
+    <task id="LOCAL-00001" summary="működő">
+      <created>1557830716823</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1557830716823</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="144258000" />
+    <option name="totallyTimeSpent" value="154951000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Persistence" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.6703755" visible="true" weight="0.1716418" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.6703755" visible="true" weight="0.11567164" />
       <window_info id="Structure" order="2" weight="0.25" />
       <window_info id="Favorites" order="3" />
       <window_info id="Designer" order="4" />
@@ -1151,13 +593,13 @@
       <window_info anchor="bottom" id="Java Enterprise" order="0" weight="0.32900432" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.32900432" />
-      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.26623377" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32575756" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.39935064" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" />
       <window_info anchor="bottom" id="Application Servers" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32900432" />
       <window_info anchor="bottom" id="Problems" order="10" />
       <window_info anchor="bottom" id="Changes" order="11" />
       <window_info anchor="bottom" id="Profiler" order="12" />
@@ -1165,7 +607,7 @@
       <window_info anchor="bottom" id="Messages" order="14" weight="0.25541127" />
       <window_info anchor="bottom" id="Docker" order="15" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="16" />
-      <window_info anchor="bottom" id="Terminal" order="17" weight="0.91450214" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="17" visible="true" weight="0.25324675" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -1179,46 +621,6 @@
       <window_info anchor="right" id="Theme Preview" order="10" />
       <window_info anchor="right" id="Bean Validation" order="11" weight="0.32995737" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Persistence" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.6703755" visible="true" weight="0.1652452" />
-      <window_info id="Structure" order="2" weight="0.25" />
-      <window_info id="Favorites" order="3" />
-      <window_info id="Designer" order="4" />
-      <window_info id="Image Layers" order="5" />
-      <window_info id="Capture Tool" order="6" />
-      <window_info id="UI Designer" order="7" />
-      <window_info anchor="bottom" id="Java Enterprise" order="0" weight="0.32900432" />
-      <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Find" order="2" weight="0.32900432" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.3030303" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.39935064" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="7" />
-      <window_info anchor="bottom" id="Application Servers" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Problems" order="10" />
-      <window_info anchor="bottom" id="Changes" order="11" />
-      <window_info anchor="bottom" id="Profiler" order="12" />
-      <window_info anchor="bottom" id="Event Log" order="13" weight="0.32900432" />
-      <window_info anchor="bottom" id="Messages" order="14" weight="0.33333334" />
-      <window_info anchor="bottom" id="Docker" order="15" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="16" />
-      <window_info anchor="bottom" id="Terminal" order="17" weight="0.9052864" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="JetGradle" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Palette" order="5" />
-      <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info anchor="right" id="Maven" order="7" />
-      <window_info anchor="right" id="Capture Analysis" order="8" />
-      <window_info anchor="right" id="Palette&#9;" order="9" />
-      <window_info anchor="right" id="Theme Preview" order="10" />
-      <window_info anchor="right" id="Bean Validation" order="11" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -1226,6 +628,8 @@
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <MESSAGE value="működő" />
+    <option name="LAST_COMMIT_MESSAGE" value="működő" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -1265,13 +669,6 @@
     <entry file="file://$USER_HOME$/Desktop/BlowedUp.java" />
     <entry file="file://$USER_HOME$/Desktop/NullBlower.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/sample/winner.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/sample/package-info.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -1294,28 +691,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sample/NullBlower.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-17">
-          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/tests/BlowedUpTest.java" />
     <entry file="file://$PROJECT_DIR$/checkstyle.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sample/BlowedUp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="32" column="67" selection-start-line="31" selection-start-column="7" selection-end-line="32" selection-end-column="67" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1329,6 +709,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/tests/package-info.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -1339,30 +726,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j2.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sample/Aknakereso.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/AknaTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sample/sample.fxml">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/sample/Main.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1374,51 +748,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/tests/AknaTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#259#260#0" expanded="true" />
-            <element signature="e#314#315#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sample/Akna.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sample/Player.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
-          <folding>
-            <element signature="e#685#686#0" expanded="true" />
-            <element signature="e#714#715#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sample/Controller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="842">
-          <caret line="114" column="22" selection-start-line="114" selection-start-column="22" selection-end-line="114" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#4609#4610#0" expanded="true" />
-            <element signature="e#5728#5729#0" expanded="true" />
-            <element signature="e#5756#5757#0" expanded="true" />
-            <element signature="e#5869#5870#0" expanded="true" />
-            <element signature="e#5900#5901#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/sample/AppLauncher.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -1426,10 +755,79 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/messages.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sample/sample.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="51" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sample/Akna.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sample/Aknakereso.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sample/BlowedUp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sample/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sample/NullBlower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="23" column="44" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sample/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="66" column="7" selection-start-line="66" selection-start-column="7" selection-end-line="66" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="129" column="49" lean-forward="true" selection-start-line="129" selection-start-column="49" selection-end-line="129" selection-end-column="49" />
+        <state relative-caret-position="322">
+          <caret line="298" column="61" selection-start-line="298" selection-start-column="61" selection-end-line="298" selection-end-column="61" />
         </state>
       </provider>
     </entry>

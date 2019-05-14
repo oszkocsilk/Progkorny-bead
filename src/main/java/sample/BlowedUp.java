@@ -13,7 +13,9 @@ import javafx.stage.Stage;
  */
 
 public class BlowedUp implements mezo{
-
+    /**
+     * Creating aknakereso.
+     */
     private Aknakereso aknakereso;
 
     /**

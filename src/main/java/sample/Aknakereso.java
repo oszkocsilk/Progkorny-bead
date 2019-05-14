@@ -10,8 +10,13 @@ import lombok.extern.slf4j.Slf4j;
 @Slf4j
 public class Aknakereso implements mezo{
 
-
+    /**
+     * Empty slot above the table.
+     */
     private static int buttonLayout= 80;
+    /**
+     * Places bombs.
+     */
     private Akna Leteszi =new Akna();
 
     /**

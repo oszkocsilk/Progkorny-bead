@@ -9,11 +9,15 @@ import  javax.persistence.*;
 @Table(name = "Akna")
 public class Player {
 
-
+    /**
+     * The ID in the database.
+     */
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Integer ID;
-
+    /**
+     * The score at the database.
+     */
     @Column(name="Score")
     private double Score;
 

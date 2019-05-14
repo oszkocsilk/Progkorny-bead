@@ -7,8 +7,14 @@ import java.util.ArrayList;
  */
 
 public class NullBlower implements mezo{
-
+    /**
+     * Creating new Bomb.
+     */
     private Akna akna= new Akna();
+
+    /**
+     * Counts disabled buttons.
+     */
     private  int disabledCounter=0;
 
     /**
