@@ -6,6 +6,7 @@ import java.util.ArrayList;
  * Uses math calculations.
  */
 public class MathThings {
+
     /**
      * Counts the score.
      *
@@ -13,8 +14,6 @@ public class MathThings {
      * @param time  is the time.
      * @return score.
      */
-
-
     public double score(double bombs, double time) {
 
         bombs = bombs * 1000;
@@ -32,8 +31,6 @@ public class MathThings {
      * @param row    the rows of the table.
      * @param column the coulums of the table.
      */
-
-
     public void makeList(ArrayList<Integer> list, int row, int column) {
 
         for (int i = 0; i < row; i++) {
@@ -41,7 +38,6 @@ public class MathThings {
                 list.add(i * 100 + j);
             }
         }
-
     }
 
 

@@ -14,6 +14,7 @@ public class Aknakereso implements mezo{
      * Empty slot above the table.
      */
     private static int buttonLayout= 80;
+
     /**
      * Places bombs.
      */

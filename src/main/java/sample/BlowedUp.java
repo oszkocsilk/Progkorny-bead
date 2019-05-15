@@ -11,8 +11,8 @@ import javafx.stage.Stage;
 /**
  * Blows the bomb is you choose it.
  */
-
 public class BlowedUp implements mezo{
+
     /**
      * Creating aknakereso.
      */
@@ -22,7 +22,6 @@ public class BlowedUp implements mezo{
      *Calls the created @aknakereso.
      * @param aknakereso the created Aknakereso
      */
-
     public BlowedUp(Aknakereso aknakereso) {
         this.aknakereso = aknakereso;
     }
@@ -36,9 +35,6 @@ public class BlowedUp implements mezo{
                 aknakereso.getMezo()[x][y].setDisable(true);
 
                 if (counter[x][y] == 666) {
-
-//                    aknakereso.getMezo()[x][y].setText("X");
-//                    aknakereso.getMezo()[x][y].setStyle("-fx-background-color: #ff0000");
                     explode(aknakereso.getMezo()[x][y]);
                 }
             }
@@ -50,7 +46,6 @@ public class BlowedUp implements mezo{
      * @param title az új ablak címe
      * @param message az új ablak üzenete
      */
-
     public static void display(String title, String message) {
         Stage window = new Stage();
 

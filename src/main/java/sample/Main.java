@@ -15,10 +15,8 @@ public class Main extends Application {
      * @param primaryStage first window,which you can see.
      * @throws Exception if exception occured.
      */
-
     @Override
     public void start(Stage primaryStage) throws Exception{
-
 
         primaryStage.setTitle("Aknakereső");
         Aknakereso aknakereso=new Aknakereso();

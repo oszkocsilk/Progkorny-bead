@@ -7,6 +7,7 @@ import javafx.scene.layout.AnchorPane;
  * Giving the size of the buttons.
  */
 public interface mezo {
+
     /**
      * The width of the buttons.
      */
@@ -31,7 +32,6 @@ public interface mezo {
      * The anchor pane, where the buttons lays.
      */
     AnchorPane table = new AnchorPane();
-
 
     /**
      * Counter counts the buttons.

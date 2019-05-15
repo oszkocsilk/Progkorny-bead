@@ -9,10 +9,10 @@ import static org.junit.jupiter.api.Assertions.*;
  *
  */
 public class AknaTest {
+
     /**
      *
      */
-
     Akna akna=new Akna();
 
     /**
@@ -22,7 +22,5 @@ public class AknaTest {
     void aknák() {
         assertEquals(3,akna.getNumberOfBombs());
     }
-
-
 
 }

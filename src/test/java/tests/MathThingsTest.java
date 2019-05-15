@@ -12,6 +12,7 @@ import static org.junit.jupiter.api.Assertions.*;
  */
 
 public class MathThingsTest {
+
     /**
      *
      */
@@ -23,14 +24,11 @@ public class MathThingsTest {
         double secound=600;
 
         assertEquals(1000,score.score(first,secound));
-
-
     }
 
     /**
      *
      */
-
     @Test
     void makeList(){
         MathThings score=new MathThings();
